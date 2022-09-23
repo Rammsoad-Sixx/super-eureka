@@ -3,3 +3,4 @@ Laura Mendez
 Roberto Paz
 Rafael Ruiz
 Daniel Alvarez
+Fernando Curiel
