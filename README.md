@@ -18,3 +18,6 @@ $agregar contenido nuevo
 agregué cosas directo en main para crear conflictos
 
 agregué cosas directo en main para hacer conflictos
+# verified by -S
+# siendo Laura
+stuff nuevo
