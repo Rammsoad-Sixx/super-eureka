@@ -16,3 +16,5 @@ contenido nuevo auto-solve
 
 $agregar contenido nuevo
 agregué cosas directo en main para crear conflictos
+
+agregué cosas directo en main para hacer conflictos
