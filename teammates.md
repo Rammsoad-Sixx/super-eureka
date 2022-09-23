@@ -4,3 +4,4 @@ Roberto Paz
 Rafael Ruiz
 Daniel Alvarez
 Fernando Curiel
+Georgina Fraire
