@@ -9,10 +9,10 @@ cambios desde Fork
 # Hola, soy Paz
 # revisando verified commits
 # unverfied
-# verified by -S
+# verified by -S ##
 # siendo Laura
 stuff nuevo
 contenido nuevo auto-solve
 
-$agregar contenido
-agregué cosas directo en main
+
+agregué cosas directo en main para hacer conflictos
